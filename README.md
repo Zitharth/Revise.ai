@@ -1,6 +1,5 @@
 # Revise.ai
 Revise with the help of AI!!!
-### Do Checkout the Video https://www.youtube.com/watch?v=Zwm9T-Zvlbg
 
 ## Inspiration
 We have all struggled in class, whether the teacher was unclear, or you're having trouble understanding a topic. If you don't understand the material, it will lead to failed exams and unnecessary stress. But now with our product, Revise, you can change that.
